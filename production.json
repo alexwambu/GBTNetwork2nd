@@ -1,0 +1,10 @@
+{
+  "network_name": "GBTNetwork",
+  "chain_id": 999,
+  "rpc_url": "https://GBTNetwork",
+  "symbol": "GBT",
+  "logo_url": "https://raw.githubusercontent.com/openai-user-assist/GBTNetworkAssets/main/logo.png",
+  "infinite_supply": true,
+  "preallocated_wallet": "0xF7F965b65E735Fb1C22266BdcE7A23CF5026AF1E",
+  "preallocated_amount": "36000000000000000000000000000000000000000000"
+}
